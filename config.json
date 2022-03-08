@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
+	"ip":"minariaplay.aternos.me",
+	"port": "15826",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
