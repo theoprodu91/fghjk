@@ -29,7 +29,7 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("hello");
+	bot.chat("afkbot1 pour vous servire");
 });
 
 bot.on('time', function(time) {
@@ -65,7 +65,7 @@ bot.on('time', function(time) {
 });
 
 bot.on('spawn',function() {
-    connected=1;
+    connected=2;
 });
 
 bot.on('death',function() {
