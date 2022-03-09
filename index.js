@@ -65,7 +65,7 @@ bot.on('time', function(time) {
 });
 
 bot.on('spawn',function() {
-    connected=2;
+    connected=1;
 });
 
 bot.on('death',function() {
